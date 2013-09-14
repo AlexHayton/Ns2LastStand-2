@@ -9,3 +9,5 @@
 Script.Load("lua/LastStand2/Alien_Upgrade.lua")
 Script.Load("lua/LastStand2/AlienCommander.lua")
 Script.Load("lua/LastStand2/AlienSpectator.lua")
+Script.Load("lua/LastStand2/AttackOrderMixin.lua")
+Script.Load("lua/LastStand2/Babbler.lua")

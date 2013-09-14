@@ -1,0 +1,7 @@
+modEntry = [[
+	Client: lua/LastStand/LastStand_Client.lua,
+	Server: lua/LastStand/LastStand_Server.lua,
+	Predict: lua/LastStand/LastStand_Predict.lua,
+	Shared: lua/LastStand/LastStand_Shared.lua,
+	Priority: 5
+]]
